@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+}
+html {
+  background-color: rgb(191, 27, 27);
+}
+.GhiDanh-div-button {
+  width: 30vw;
+  height: 10vh;
+}
+.GhiDanh-div-button-a {
+  color: black;
+  font-size: 130%;
+}
